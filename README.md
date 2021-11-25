@@ -4,14 +4,14 @@
   <p align="center">
     
     
-<a href="#"><img title="LIZA MWOL" src="https://img.shields.io/badge/LIZA MWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Sha_Bot-2" src="https://img.shields.io/badge/Sha_Bot-2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href=https://github.com/A2lover"><img title="Author" src="https://img.shields.io/badge/Author-(hunk!nd3 p4d4y41!-LIZAMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href=https://github.com/A2lover"><img title="Author" src="https://img.shields.io/badge/Author-(hunk!nd3 p4d4y41!-BotMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/A2lover">LIZA MWOL</a> to make it public
+Project created by <a href="https://github.com/A2lover">Sha_Bot-2</a> to make it public
     <br>
        | © |
         Reserved |
@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/A2lover">LIZA MWOL</a> to make it
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/A2lover/Sha_Bot-2) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@A2lover/LizaMwol?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@A2lover/BotMwol?v=1)
   
 ### The Hard Method
 ```js
@@ -36,7 +36,7 @@ $ git clone https://github.com/A2lover/Sha_Bot-2
 $ cd Sha_Bot-2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node Liza.js
+$ node Bot.js
 ```
       
 ```js
@@ -44,7 +44,7 @@ SETUP
 $ git clone https://github.com/A2lover/Sha_Bot-2
 $ cd Sha_Bot-2
 $ npm i
-$ node Liza.js
+$ node Bot.js
 ```
 
 ----
@@ -76,7 +76,7 @@ Click WA logo to Join Support Group 👇
   </div>
  
   
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/J4DrqlOQYr05LnEfYCoovI)
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/BRPbS6JHUoCE480MpLLM5z)
                      
 ### ⚠️ Warning! 
 ```
