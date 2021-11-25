@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="IMG-20211124-WA0023.png"width="200" height="200"/>
+  <img border-radius: 15px src=""width="200" height="200"/>
   <p align="center">
     
     
@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/A2lover">A2lover</a> to make it p
 
   ### Simple Method
   
-[![Deploy](IMG-20211125-WA0007.jpg)](https://heroku.com/deploy?template=https://github.com/A2lover/Sha_Bot.V2) 
+[![Deploy](IMG-20211124-WA0023.png)](https://heroku.com/deploy?template=https://github.com/A2lover/Sha_Bot.V2) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@A2lover/Sha_Bot.V2?v=1)
   
