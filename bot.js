@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Sha_Bot-2 working!')
+            chalk.green.bold('✅ Sha_Bot.V2 working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -396,7 +396,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ Sha_Bot-2 ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ Sha_Bot.V2 ~______~*' +
                                     '\n\n*👾 ' + error + '*\n\n```Report errors\njoin ⚠️Warning bot not allowed in the group\nchat.whatsapp.com/J4DrqlOQYr05LnEfYCoovI``` ' 
                                     , MessageType.text);
                             }
