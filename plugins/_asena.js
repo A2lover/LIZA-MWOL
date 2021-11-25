@@ -28,12 +28,12 @@ if (Config.WORKTYPE == 'private') {
                         var match = [command.pattern];
                     }
     
-                    var HANDLER = ""
+                    var HANDLER = '';
     
                     if (/\[(\W*)\]/.test(Config.HANDLERS)) {
                         HANDLER = Config.HANDLERS.match(/\[(\W*)\]/)[1][0];
                     } else {
-                        HANDLER = ""
+                        HANDLER = '';
                     }
                     if (command.desc == '' && !command.usage == '' && command.warn == '') {
                         CMD_HELP += '➢ ' + (match.length >= 3 ? (HANDLER + mmatch) : command.pattern) + '\n\n' + '. ' + Lang.EXAMPLE + ': ```' + command.usage + '```\n\n\n';
