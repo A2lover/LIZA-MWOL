@@ -396,8 +396,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝐋𝐈𝐙𝐀 𝐌𝐖𝐎𝐋࿐ ~______~*' +
-                                    '\n\n*👾 ' + error + '*\n\n```Report errors\njoin ⚠️Warning bot not allowed in the group\nchat.whatsapp.com/FVOdpPLaMvP24rIfTzCGof``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ Sha_Bot-2 ~______~*' +
+                                    '\n\n*👾 ' + error + '*\n\n```Report errors\njoin ⚠️Warning bot not allowed in the group\nchat.whatsapp.com/J4DrqlOQYr05LnEfYCoovI``` ' 
                                     , MessageType.text);
                             }
                         }
