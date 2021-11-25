@@ -11,11 +11,10 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/A2lover">A2lover</a> to make it public
-    <br>
-       | © |
-        Reserved |
-    <br> 
+                                Lollipop🍭
+
+     
+     
 </p>
 
 ## Setup
