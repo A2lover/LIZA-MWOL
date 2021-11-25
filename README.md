@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src=""width="200" height="200"/>
+  <img border-radius: 15px src="🍭"width="200" height="200"/>
   <p align="center">
     
     
@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/A2lover">A2lover</a> to make it p
   
 [![Deploy](IMG-20211124-WA0023.png)](https://heroku.com/deploy?template=https://github.com/A2lover/Sha_Bot.V2) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@A2lover/Sha_Bot.V2?v=1)
+[![Run on Repl.it](IMG-20211125-WA0007.jpg)](https://replit.com/@A2lover/Sha_Bot.V2?v=1)
   
 ### The Hard Method
 ```js
@@ -69,7 +69,7 @@ $ node Bot.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/A2lover/Sha_Bot.V2/blob/master/IMG-20211124-WA0012.png)](https://chat.whatsapp.com/J4DrqlOQYr05LnEfYCoovI)
+  [![join](https://github.com/A2lover/Sha_Bot.V2/blob/master/🍭)](https://chat.whatsapp.com/J4DrqlOQYr05LnEfYCoovI)
   <div align="center">
        
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=A2lover&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
