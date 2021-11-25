@@ -69,7 +69,7 @@ $ node Bot.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/A2lover/Sha_Bot.V2/blob/master/WhatsAsena.png)](https://chat.whatsapp.com/BRPbS6JHUoCE480MpLLM5z)
+  [![join](https://github.com/A2lover/Sha_Bot.V2/blob/master/WhatsAsena.png)](https://chat.whatsapp.com/J4DrqlOQYr05LnEfYCoovI)
   <div align="center">
        
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=A2lover&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
