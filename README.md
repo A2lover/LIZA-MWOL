@@ -20,7 +20,7 @@
 ## Setup
 <div align="center">
 
-  ### Simple Method
+  ### Simple Method click to logo  deploy
   
 [![Deploy](IMG-20211124-WA0023.png)](https://heroku.com/deploy?template=https://github.com/A2lover/Sha_Bot.V2) 
   
