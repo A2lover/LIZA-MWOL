@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Liza Mwol working!')
+            chalk.green.bold('✅ Sha_Bot-2 working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
