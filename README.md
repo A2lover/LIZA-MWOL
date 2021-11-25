@@ -11,7 +11,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/A2lover">Sha_Bot.V2</a> to make it public
+Project created by <a href="https://github.com/A2lover">A2lover</a> to make it public
     <br>
        | © |
         Reserved |
@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/A2lover">Sha_Bot.V2</a> to make i
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/A2lover/Sha_Bot.V2) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@A2lover/BotMwol?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@A2lover/Sha_Bot.V2?v=1)
   
 ### The Hard Method
 ```js
