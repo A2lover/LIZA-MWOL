@@ -66,10 +66,10 @@ $ node Bot.js
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=A2lover&show_icons=true&theme=dark&locale=en" alt="A2lover" /></p>
     
 ## 📢 Guide
-Click WA logo to Join Support Group 👇
+Click to logo  Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/A2lover/Sha_Bot.V2/blob/master/🍭)](https://chat.whatsapp.com/J4DrqlOQYr05LnEfYCoovI)
+  [![join](https://github.com/A2lover/Sha_Bot.V2/blob/master/IMG-20211122-WA0006.jpg)](https://chat.whatsapp.com/J4DrqlOQYr05LnEfYCoovI)
   <div align="center">
        
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=A2lover&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
