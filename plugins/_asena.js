@@ -80,12 +80,12 @@ if (Config.WORKTYPE == 'private') {
                         var cmmatch = command.pattern.toString().match(/(\W*)([A-Za-züşiğ öç1234567890]*)/)[2].replace(' ', '')
                     }
                     if (cmmatch == match[1]) {
-                        var HANDLER = '';
+                        var HANDLER = "" 
     
                         if (/\[(\W*)\]/.test(Config.HANDLERS)) {
                             HANDLER = Config.HANDLERS.match(/\[(\W*)\]/)[1][0];
                         } else {
-                            HANDLER = '.';
+                            HANDLER = ""
                         }
                         if (command.desc == '' && !command.usage == '' && command.warn == '') {
                             CMD_HELP += '➢ ' + (match.length >= 3 ? (HANDLER + mmatch) : command.pattern) + '\n\n' + '. ' + Lang.EXAMPLE + ': ```' + command.usage + '```\n\n\n';
