@@ -1,6 +1,6 @@
 {
-    "name": "Liza-Mwol",
-    "description": "Liza Mwol is the Modified Version of WhatsAsena, Made By @Chunkinde_padayali with Baileys.",
+    "name": "Sha_bot-V2",
+    "description": "Sha_bot-V2 is the Modified Version of WhatsAsena, Made By @A2lover with Baileys.",
     "logo": "https://i.imgur.com/2nYs8dN.jpg",
     "keywords": ["whatsapp", "userbot", "Liza", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/Chunkindepadayali/LIZA-MWOL",
@@ -137,12 +137,12 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "  𝐋𝐈𝐙𝐀 𝐌𝐖𝐎𝐋࿐  \n\n   *ωнαтsαρρ вσт™*   \n"
+            "value": "  Sha_bot-V2  \n\n   *ωнαтsαρρ вσт™*   \n"
         },
         "BOTV2_NAME": {
             "description": "heading for bgm command reply",
             "required": false,
-            "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ʟɪᴢᴀ ᴍᴏʟ࿐"
+            "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝Sha_bot-V2"
         },
         "BGM_DURATION": {
             "description": "FUNY BGM DURATION  codded by (hunk!nd3 p4d4y41!",
