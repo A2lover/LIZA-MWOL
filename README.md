@@ -4,14 +4,14 @@
   <p align="center">
     
     
-<a href="#"><img title="LIZA MWOL" src="https://img.shields.io/badge/LIZA MWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Sha_Bot.V2" src="https://img.shields.io/badge/Sha_Bot.V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href=https://github.com/A2lover"><img title="Author" src="https://img.shields.io/badge/Author-(hunk!nd3 p4d4y41!-LIZAMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/A2lover">LIZA MWOL</a> to make it public
+Project created by <a href="https://github.com/A2lover">Sha_Bot.V2</a> to make it public
     <br>
        | © |
         Reserved |
